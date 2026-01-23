@@ -98,8 +98,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 4.  **Run the development server:**
     ```sh
     npm start
-    # or
-    yarn dev
     ```
     Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
@@ -114,9 +112,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 **[Your Name]**
 
--   GitHub: [@your-username](https://github.com/your-username)
--   LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
--   Website: [your-website.com](https://your-website.com)
+-   GitHub: (https://github.com/divi-garg)
+-   LinkedIn: (https://www.linkedin.com/in/divisha-garg-589a14259/)
 
 ## 📄 License
 
